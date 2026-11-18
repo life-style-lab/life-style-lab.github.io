@@ -11,7 +11,7 @@ for (const f of fs.readdirSync(dir).filter((f) => f.endsWith(".md"))) {
   if (!/^[a-z0-9-]+\.md$/.test(f)) errs.push("slug must be lowercase a-z0-9-");
   const len = body.replace(/\s/g, "").length;
   if (len < 2500) errs.push(`too short (${len} chars, need 2500+)`);
-  const aff = (body.match(/\[\[(shop|amazon|rakuten):/g) || []).length;
+  const aff = (body.match(/\[\[(shop|amazon|rakuten):|^:::product/gm) || []).length;
   if (aff > 6) errs.push(`too many affiliate links (${aff})`);
   if (!/##\s*参考/.test(body)) errs.push("missing ## 参考情報");
   for (const w of banned) if (body.includes(w)) errs.push(`banned phrase: ${w}`);
