@@ -1,0 +1,22 @@
+{
+  "title": "在宅ワーク環境ラボ",
+  "tagline": "疲れにくく、集中できる在宅ワーク環境のつくり方",
+  "description": "デスク・椅子・モニター・照明・周辺機器の選び方から、集中術・健康管理まで。在宅ワークの作業環境を整えるための実用ガイド。",
+  "baseUrl": "https://YOUR_GITHUB_USER.github.io/desk-lab",
+  "basePath": "/desk-lab",
+  "author": "在宅ワーク環境ラボ編集部",
+  "contactUrl": "https://github.com/YOUR_GITHUB_USER/desk-lab/issues",
+  "affiliate": {
+    "amazonTag": "",
+    "rakutenAffiliateId": "",
+    "a8": {}
+  },
+  "categories": {
+    "desk": "デスク・椅子",
+    "monitor": "モニター・PC周辺",
+    "lighting": "照明・空調",
+    "audio": "音・オンライン会議",
+    "health": "健康・姿勢",
+    "productivity": "集中・仕事術"
+  }
+}
