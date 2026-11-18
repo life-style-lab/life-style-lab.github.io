@@ -1,7 +1,7 @@
 [
   {"slug": "home-office-setup-basics", "title": "在宅ワークで疲れないデスク環境の作り方", "category": "desk", "status": "done"},
   {"slug": "standing-desk-how-to-choose", "title": "電動昇降デスクの選び方｜天板サイズ・耐荷重・モーター数・揺れ対策", "category": "desk", "status": "done"},
-  {"slug": "office-chair-how-to-choose", "title": "在宅ワーク用オフィスチェアの選び方｜調整機能のチェックリスト", "category": "desk", "status": "todo"},
+  {"slug": "office-chair-how-to-choose", "title": "在宅ワーク用オフィスチェアの選び方｜調整機能のチェックリスト", "category": "desk", "status": "done"},
   {"slug": "monitor-size-resolution-guide", "title": "在宅ワーク用モニターのサイズと解像度の選び方｜24・27・32インチ比較", "category": "monitor", "status": "todo"},
   {"slug": "monitor-arm-guide", "title": "モニターアームの選び方｜クランプ式・グロメット式と耐荷重の確認方法", "category": "monitor", "status": "todo"},
   {"slug": "laptop-stand-external-keyboard", "title": "ノートPCで首が痛い人へ｜PCスタンドと外付けキーボードの選び方", "category": "monitor", "status": "todo"},
