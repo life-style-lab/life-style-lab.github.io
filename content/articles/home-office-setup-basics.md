@@ -139,6 +139,14 @@ tags: [デスク環境, 姿勢, モニター, 厚生労働省ガイドライン]
 **選ぶときのチェック**：高さ（何cm上げたいか）、滑り止めの有無、天面の幅
 :::
 
+:::item サンワサプライ フットレスト 100-FR032|-|https://direct.sanwa.co.jp:443/contents/news/pdf/2023/100-FR032.pdf
+フットレストの一例として、メーカーが公開している仕様は次のとおりです。
+
+- 高さ：3段階で調節、角度は無段階
+- サイズ：約W490×D355×H365〜395mm
+- 重量：約2.6kg、製品耐荷重：約40kg
+:::
+
 :::product 3|モニターライト|モニターライト
 **こんな人に**：夜に作業することが多く、デスクが狭い人
 
@@ -147,6 +155,14 @@ tags: [デスク環境, 姿勢, モニター, 厚生労働省ガイドライン]
 - 色温度・明るさを調整できるものが便利
 
 **選ぶときのチェック**：モニターの厚み・形状に取り付けられるか、給電方法（USBなど）
+:::
+
+:::item BenQ ScreenBar Halo|-|https://www.benq.com/ja-jp/support/downloads-faq/faq/product/specification/e-reading-lamp-faq-kn-00003.html
+モニターライトの一例として、メーカー公式FAQで公開されている仕様は次のとおりです。
+
+- 照度：最大800ルクス（ランプと机の距離45cm想定）
+- 色温度：2700K〜6500Kで調整
+- 後継モデル（Halo 2）も販売されているため、購入時は世代の違いを確認しましょう
 :::
 
 ## よくある質問
@@ -177,6 +193,9 @@ tags: [デスク環境, 姿勢, モニター, 厚生労働省ガイドライン]
 [[shop:ノートパソコンスタンド|ノートPCスタンド]]
 
 ## 参考情報
+
+- サンワサプライ「100-FR032」製品リリース：https://direct.sanwa.co.jp:443/contents/news/pdf/2023/100-FR032.pdf
+- BenQ公式FAQ（ScreenBar Halo の照度・色温度）：https://www.benq.eu/en-uk/support/downloads-faq/faq/product/specification/e-reading-lamp-faq-kn-00002.html
 
 - 厚生労働省「情報機器作業における労働衛生管理のためのガイドラインについて」（令和元年7月12日 基発0712第3号）：https://www.mhlw.go.jp/content/000539603.pdf
 - 厚生労働省・都道府県労働局・労働基準監督署「情報機器作業における労働衛生管理のためのガイドライン」リーフレット：https://www.mhlw.go.jp/content/000580827.pdf

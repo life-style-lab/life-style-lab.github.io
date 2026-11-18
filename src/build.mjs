@@ -90,6 +90,15 @@ function renderMd(md) {
         return slot(`<section class="product">${rank && rank !== "-" ? `<span class="rank rank-${esc(rank)}">${esc(rank)}</span>` : ""}
 <h3 class="product-name">${esc(name)}</h3><div class="product-body">${body()}</div>${ctaBlock(q || name)}</section>`);
       }
+      case "item": {
+        // :::item 商品名|ASIN または -|出典URL（メーカー公式の仕様ページ）
+        const [name, asin, src] = arg.split("|").map((x) => x.trim());
+        affiliateCount++;
+        const amz = asin && asin !== "-" ? `https://www.amazon.co.jp/dp/${encodeURIComponent(asin)}${AMAZON_TAG ? `?tag=${encodeURIComponent(AMAZON_TAG)}` : ""}` : amazonUrl(name);
+        return slot(`<section class="item"><p class="item-label">注目モデル</p><h3 class="item-name">${esc(name)}</h3>
+<div class="item-body">${body()}</div>${src ? `<p class="item-src">仕様の出典：<a href="${esc(src)}" target="_blank" rel="noopener">メーカー公式情報</a>（執筆時点。最新情報は販売ページでご確認ください）</p>` : ""}
+<div class="cta-wrap"><p class="micro">＼ 価格・レビューをチェック ／</p><a class="cta cta-amazon" href="${esc(amz)}" rel="sponsored noopener" target="_blank">Amazonで見る</a>${btnRakuten(name)}</div></section>`);
+      }
       default:
         return inner;
     }
