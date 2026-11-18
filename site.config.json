@@ -2,10 +2,10 @@
   "title": "在宅ワーク環境ラボ",
   "tagline": "疲れにくく、集中できる在宅ワーク環境のつくり方",
   "description": "デスク・椅子・モニター・照明・周辺機器の選び方から、集中術・健康管理まで。在宅ワークの作業環境を整えるための実用ガイド。",
-  "baseUrl": "https://lechvdr-source.github.io/desk-lab",
-  "basePath": "/desk-lab",
+  "baseUrl": "https://life-style-lab.github.io",
+  "basePath": "",
   "author": "在宅ワーク環境ラボ編集部",
-  "contactUrl": "https://github.com/lechvdr-source/desk-lab/issues",
+  "contactUrl": "https://github.com/life-style-lab/life-style-lab.github.io/issues",
   "affiliate": {
     "amazonTag": "",
     "rakutenAffiliateId": "",

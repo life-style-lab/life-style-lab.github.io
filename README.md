@@ -11,9 +11,9 @@
 - `.github/workflows/deploy.yml` … push時＋3時間ごとにビルドして Pages へデプロイ
 
 ## 公開までの手順
-1. GitHub に `desk-lab` リポジトリを作成して push
+1. GitHub 組織 life-style-lab に `life-style-lab.github.io` リポジトリを作成して push
 2. Settings → Pages → Source を「GitHub Actions」に
-3. `site.config.json` の `YOUR_GITHUB_USER` を自分のユーザー名に置換
+3. 公開URL: https://life-style-lab.github.io/
 4. Amazonアソシエイト / 楽天アフィリエイトに登録し、Settings → Secrets and variables → Actions → Variables に
    `AMAZON_TAG`（例: xxxx-22）と `RAKUTEN_AFFILIATE_ID` を登録
 5. Google Search Console にサイトと sitemap.xml を登録
