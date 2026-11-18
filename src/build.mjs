@@ -152,7 +152,7 @@ function layout({ title, description, canonical, body, jsonld, ogType = "website
   const nav = Object.entries(cfg.categories).map(([k, v]) => `<a href="${url(`/category/${k}/`)}">${catStyle(k).icon} ${esc(v)}</a>`).join("");
   return `<!doctype html><html lang="ja"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="theme-color" content="#ffffff">
+<meta name="theme-color" content="#ffffff">${cfg.googleSiteVerification ? `<meta name="google-site-verification" content="${esc(cfg.googleSiteVerification)}">` : ""}
 <title>${esc(full)}</title><meta name="description" content="${esc(description || cfg.description)}">
 <link rel="canonical" href="${esc(canonical)}">
 <meta property="og:title" content="${esc(full)}"><meta property="og:description" content="${esc(description || cfg.description)}">
