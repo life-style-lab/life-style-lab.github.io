@@ -138,6 +138,10 @@ mark{background:linear-gradient(transparent 55%,var(--marker) 55%);color:inherit
 .item-body ul{padding-left:1.2em;font-size:.88rem;margin:.4em 0}.item-body p{font-size:.88rem;margin:.5em 0}
 .item-src{font-size:.7rem;color:var(--muted);margin:8px 0 0;line-height:1.6}
 
+.fig{margin:1.6em 0;padding:12px 8px 8px;background:#fafbf9;border:1px solid var(--line);border-radius:var(--radius);text-align:center}
+.fig svg{display:block;width:100%;height:auto;max-width:520px;margin:0 auto;font-family:"Noto Sans JP",sans-serif}
+.fig figcaption{font-size:.74rem;color:var(--muted);margin-top:6px;line-height:1.6}
+
 /* author / related */
 .author{display:flex;gap:12px;margin:32px 16px 0;padding:14px;border-radius:var(--radius);background:var(--bg);font-size:.8rem;line-height:1.7}
 .author-icon{flex:none;display:grid;place-items:center;width:52px;height:52px;border-radius:50%;background:var(--paper);font-size:1.6rem}

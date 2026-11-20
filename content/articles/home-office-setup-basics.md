@@ -28,6 +28,33 @@ tags: [デスク環境, 姿勢, モニター, 厚生労働省ガイドライン]
 
 作業姿勢を決めるのは、机ではなく椅子です。==椅子の高さが合っていないと、机をどれだけ調整しても姿勢は安定しません。==
 
+:::figure 疲れにくい座り姿勢の目安（横から見た図）
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#1f8a70"/></marker></defs>
+<line x1="20" y1="270" x2="385" y2="270" stroke="#c9cdd1" stroke-width="2"/>
+<rect x="85" y="198" width="82" height="9" rx="3" fill="#b9bfc4"/><rect x="84" y="118" width="9" height="88" rx="3" fill="#b9bfc4"/>
+<line x1="126" y1="207" x2="126" y2="262" stroke="#b9bfc4" stroke-width="6"/><line x1="100" y1="266" x2="152" y2="266" stroke="#b9bfc4" stroke-width="5" stroke-linecap="round"/>
+<rect x="200" y="148" width="170" height="7" rx="2" fill="#b9bfc4"/><line x1="358" y1="155" x2="358" y2="270" stroke="#b9bfc4" stroke-width="6"/>
+<rect x="300" y="82" width="8" height="58" rx="2" fill="#5f6670"/><line x1="312" y1="118" x2="312" y2="148" stroke="#5f6670" stroke-width="4"/><line x1="300" y1="147" x2="326" y2="147" stroke="#5f6670" stroke-width="4"/>
+<rect x="212" y="143" width="34" height="5" rx="1" fill="#5f6670"/>
+<g stroke="#2b2d2f" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M118 196L124 104"/><path d="M118 196H190V266H214"/><path d="M124 108L134 150H214"/></g>
+<circle cx="132" cy="80" r="17" fill="#2b2d2f"/>
+<line x1="146" y1="80" x2="298" y2="84" stroke="#1f8a70" stroke-width="1.5" stroke-dasharray="4 4"/>
+<text x="216" y="102" font-size="11" fill="#1f8a70" text-anchor="middle">画面の上端は目の高さか、やや下</text>
+<line x1="150" y1="40" x2="298" y2="40" stroke="#1f8a70" stroke-width="1.5" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="224" y="33" font-size="12" font-weight="700" fill="#1f8a70" text-anchor="middle">40cm以上（目安 50〜70cm）</text>
+<line x1="60" y1="268" x2="60" y2="202" stroke="#1f8a70" stroke-width="1.5" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="56" y="232" font-size="11" fill="#1f8a70" text-anchor="end" font-weight="700">座面</text><text x="56" y="247" font-size="10" fill="#1f8a70" text-anchor="end">身長×0.25</text>
+<line x1="262" y1="200" x2="262" y2="157" stroke="#1f8a70" stroke-width="1.5" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<line x1="168" y1="200" x2="270" y2="200" stroke="#1f8a70" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="270" y="178" font-size="11" fill="#1f8a70" font-weight="700">差尺</text><text x="270" y="192" font-size="10" fill="#1f8a70">身長×0.18</text>
+<text x="146" y="166" font-size="10" fill="#2b2d2f">肘 約90°</text>
+<text x="196" y="214" font-size="10" fill="#2b2d2f">ひざ 約90°</text>
+<text x="222" y="262" font-size="10" fill="#2b2d2f">足裏は床に</text>
+</svg>
+:::
+
 ### 椅子（座面）の高さの目安
 
 :::check 座ったときにこうなっていればOK

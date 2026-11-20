@@ -90,6 +90,12 @@ function renderMd(md) {
         return slot(`<section class="product">${rank && rank !== "-" ? `<span class="rank rank-${esc(rank)}">${esc(rank)}</span>` : ""}
 <h3 class="product-name">${esc(name)}</h3><div class="product-body">${body()}</div>${ctaBlock(q || name)}</section>`);
       }
+      case "figure": {
+        // :::figure キャプション  +  raw <svg>...</svg>
+        const svg = inner.trim().replace(/<script[\s\S]*?<\/script>/gi, "").replace(/\son\w+="[^"]*"/gi, "");
+        if (!/^<svg[\s\S]*<\/svg>$/.test(svg)) throw new Error(`:::figure must contain a single <svg>: ${arg}`);
+        return slot(`<figure class="fig">${svg.replace("<svg", `<svg role="img" aria-label="${esc(arg)}"`)}${arg ? `<figcaption>${esc(arg)}</figcaption>` : ""}</figure>`);
+      }
       case "item": {
         // :::item 商品名|ASIN または -|出典URL（メーカー公式の仕様ページ）
         const [name, asin, src] = arg.split("|").map((x) => x.trim());
