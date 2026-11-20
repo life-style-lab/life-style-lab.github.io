@@ -57,6 +57,30 @@ tags: [電動昇降デスク, スタンディングデスク, デスク選び, �
 - 天板の厚み（2〜3cm程度）も含めた「天板上面の高さ」で仕様を比べる
 :::
 
+:::figure 座る高さと立つ高さの目安（身長170cmの場合・横から見た図）
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="ar3" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#1f8a70"/></marker></defs>
+<line x1="5" y1="280" x2="395" y2="280" stroke="#c9cdd1" stroke-width="2"/>
+<rect x="70" y="132" width="90" height="7" rx="2" fill="#b9bfc4"/><line x1="150" y1="139" x2="150" y2="280" stroke="#b9bfc4" stroke-width="6"/>
+<rect x="10" y="194" width="48" height="8" rx="3" fill="#b9bfc4"/><line x1="34" y1="202" x2="34" y2="274" stroke="#b9bfc4" stroke-width="5"/>
+<g stroke="#2b2d2f" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M30 190L36 108"/><path d="M30 190H82V276H96"/><path d="M36 112L46 140H88"/></g>
+<circle cx="42" cy="86" r="15" fill="#2b2d2f"/>
+<line x1="165" y1="276" x2="165" y2="143" stroke="#1f8a70" stroke-width="1.5" marker-start="url(#ar3)" marker-end="url(#ar3)"/>
+<text x="172" y="215" font-size="12" font-weight="700" fill="#1f8a70">約73〜74cm</text>
+<text x="172" y="230" font-size="10" fill="#1f8a70">身長×0.43</text>
+<text x="85" y="296" font-size="11" fill="#2b2d2f" text-anchor="middle">座って使う</text>
+<rect x="282" y="68" width="92" height="7" rx="2" fill="#b9bfc4"/><line x1="368" y1="75" x2="368" y2="280" stroke="#b9bfc4" stroke-width="6"/>
+<g stroke="#2b2d2f" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M256 160L256 50"/><path d="M256 160L252 276"/><path d="M256 160L262 276"/><path d="M256 56L260 76H292"/></g>
+<circle cx="258" cy="28" r="15" fill="#2b2d2f"/>
+<line x1="286" y1="276" x2="286" y2="80" stroke="#1f8a70" stroke-width="1.5" marker-start="url(#ar3)" marker-end="url(#ar3)"/>
+<text x="292" y="180" font-size="12" font-weight="700" fill="#1f8a70">約105cm</text>
+<text x="292" y="195" font-size="10" fill="#1f8a70">立った肘の高さ</text>
+<text x="310" y="296" font-size="11" fill="#2b2d2f" text-anchor="middle">立って使う</text>
+</svg>
+:::
+
 米ワシントン大学の施設設計ガイドは、米国の家具業界団体BIFMAの人間工学ガイドライン（G1）を引用し、作業面の調整範囲として約22〜50インチ（約56〜127cm）を推奨しています。身長が低め・高めの人ほど、この範囲に近い製品を選ぶと安心です。
 
 ## 選び方② 天板サイズは「奥行き」を優先
