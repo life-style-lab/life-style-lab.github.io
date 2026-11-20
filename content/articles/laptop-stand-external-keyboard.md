@@ -48,6 +48,33 @@ tags: [ノートPCスタンド, 外付けキーボード, 姿勢, ノートパ�
 
 たとえば、天板から目の高さまでが45cm、画面の上端が23cmなら、約20cm上げると上端が目の高さに近づきます。==やや下向きの視線が楽な人は、そこから数cm低め==に設定しましょう。
 
+:::figure ノートPCをスタンドで上げたときの目線の変化（横から見た図）
+<svg viewBox="0 0 400 260" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="ar6" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#1f8a70"/></marker></defs>
+<g font-size="11" fill="#2b2d2f">
+<text x="100" y="20" text-anchor="middle" font-weight="700">そのまま置いた場合</text>
+<text x="300" y="20" text-anchor="middle" font-weight="700">スタンド＋外付けキーボード</text>
+<rect x="10" y="200" width="180" height="7" rx="2" fill="#b9bfc4"/><rect x="210" y="200" width="180" height="7" rx="2" fill="#b9bfc4"/>
+<circle cx="40" cy="96" r="13" fill="#2b2d2f"/>
+<path d="M36 110Q44 150 40 200" stroke="#2b2d2f" stroke-width="7" fill="none" stroke-linecap="round"/>
+<rect x="110" y="196" width="40" height="4" fill="#5f6670"/><line x1="150" y1="198" x2="160" y2="150" stroke="#5f6670" stroke-width="4" stroke-linecap="round"/>
+<line x1="50" y1="100" x2="155" y2="160" stroke="#c0392b" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text x="100" y="236" text-anchor="middle" font-size="10" fill="#c0392b">見下ろす姿勢で首が前に出やすい</text>
+<circle cx="236" cy="70" r="13" fill="#2b2d2f"/>
+<path d="M236 84V200" stroke="#2b2d2f" stroke-width="7" fill="none" stroke-linecap="round"/>
+<rect x="268" y="194" width="44" height="6" rx="1" fill="#5f6670"/>
+<rect x="335" y="140" width="34" height="60" fill="none" stroke="#b9bfc4" stroke-width="3"/>
+<rect x="328" y="136" width="40" height="4" fill="#5f6670"/><line x1="368" y1="138" x2="374" y2="76" stroke="#5f6670" stroke-width="4" stroke-linecap="round"/>
+<line x1="249" y1="72" x2="372" y2="78" stroke="#1f8a70" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="385" y1="198" x2="385" y2="142" stroke="#1f8a70" stroke-width="1.5" marker-start="url(#ar6)" marker-end="url(#ar6)"/>
+<text x="352" y="176" text-anchor="middle" font-size="10" fill="#1f8a70" font-weight="700">約20cm</text>
+<text x="290" y="216" text-anchor="middle" font-size="10">外付けキーボード</text>
+<text x="300" y="236" text-anchor="middle" font-size="10" fill="#1f8a70">画面の上端が目の高さ〜やや下</text>
+<text x="300" y="252" text-anchor="middle" font-size="10" fill="#2b2d2f">例：目の高さ45cm、画面上端23cm</text>
+</g>
+</svg>
+:::
+
 | 上げる高さの目安 | 向いているスタンド |
 |---|---|
 | 〜10cm | 傾斜をつける薄型スタンド・折りたたみ型 |
