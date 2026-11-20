@@ -81,6 +81,35 @@ tags: [モニターアーム, VESA, クランプ, デスク環境]
 
 多くの製品は、クランプとグロメットの両方の金具が付属しています。
 
+:::figure クランプ式とグロメット式の固定方法（横から見た図）
+<svg viewBox="0 0 400 230" xmlns="http://www.w3.org/2000/svg">
+<g font-size="11" fill="#2b2d2f">
+<text x="100" y="22" text-anchor="middle" font-weight="700">クランプ式</text>
+<text x="300" y="22" text-anchor="middle" font-weight="700">グロメット式</text>
+<rect x="20" y="100" width="140" height="16" fill="#b9bfc4"/>
+<rect x="138" y="40" width="10" height="60" rx="2" fill="#5f6670"/>
+<path d="M128 92H168V124H128" fill="none" stroke="#1f8a70" stroke-width="5"/>
+<line x1="148" y1="124" x2="148" y2="150" stroke="#1f8a70" stroke-width="4"/>
+<rect x="138" y="148" width="20" height="8" rx="2" fill="#1f8a70"/>
+<text x="60" y="140" font-size="10" text-anchor="middle">天板の縁を</text>
+<text x="60" y="154" font-size="10" text-anchor="middle">上下から挟む</text>
+<line x1="176" y1="100" x2="176" y2="116" stroke="#c0392b" stroke-width="1.5"/>
+<text x="180" y="112" font-size="10" fill="#c0392b">厚さ</text>
+<text x="100" y="190" font-size="10" text-anchor="middle" fill="#1f8a70">確認：天板の厚さ</text>
+<text x="100" y="204" font-size="10" text-anchor="middle" fill="#1f8a70">縁の下に幕板がないか</text>
+<rect x="220" y="100" width="66" height="16" fill="#b9bfc4"/><rect x="314" y="100" width="66" height="16" fill="#b9bfc4"/>
+<rect x="295" y="40" width="10" height="60" rx="2" fill="#5f6670"/>
+<rect x="280" y="92" width="40" height="8" rx="2" fill="#1f8a70"/>
+<line x1="300" y1="100" x2="300" y2="140" stroke="#1f8a70" stroke-width="4"/>
+<rect x="280" y="124" width="40" height="8" rx="2" fill="#1f8a70"/>
+<text x="350" y="148" font-size="10" text-anchor="middle">配線穴に</text>
+<text x="350" y="162" font-size="10" text-anchor="middle">ボルトを通す</text>
+<text x="300" y="190" font-size="10" text-anchor="middle" fill="#1f8a70">確認：穴の直径と位置</text>
+<text x="300" y="204" font-size="10" text-anchor="middle" fill="#1f8a70">天板の厚さ</text>
+</g>
+</svg>
+:::
+
 :::check 机側で測っておくこと
 - 天板の厚さ（クランプ・グロメットの対応範囲に入るか）
 - 天板の縁の下に、補強の桟（さん）や幕板、引き出しがないか
