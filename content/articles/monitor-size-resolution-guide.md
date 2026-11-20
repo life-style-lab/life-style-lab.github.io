@@ -80,6 +80,32 @@ macOSは、物理解像度の半分（4Kなら1920×1080相当）で表示する
 
 ※視距離の目安は「画面の幅程度以上」を基準にした一般的な目安です。
 
+:::figure 画面サイズ別の視距離と机の奥行きの目安
+<svg viewBox="0 0 400 260" xmlns="http://www.w3.org/2000/svg">
+<text x="90" y="22" font-size="10" fill="#2b2d2f">灰色：机の奥行きの目安　緑：目から画面までの距離の目安</text>
+<text x="10" y="60" font-size="12" font-weight="700" fill="#2b2d2f">24インチ</text>
+<rect x="90" y="40" width="186" height="14" rx="2" fill="#b9bfc4"/>
+<text x="282" y="51" font-size="10" fill="#2b2d2f">机 60cm以上</text>
+<rect x="245" y="60" width="31" height="12" rx="2" fill="#1f8a70"/>
+<text x="239" y="70" font-size="10" fill="#1f8a70" text-anchor="end">視距離 50〜60cm</text>
+<text x="10" y="122" font-size="12" font-weight="700" fill="#2b2d2f">27インチ</text>
+<rect x="90" y="102" width="217" height="14" rx="2" fill="#b9bfc4"/>
+<text x="313" y="113" font-size="10" fill="#2b2d2f">机 70cm以上</text>
+<rect x="276" y="122" width="31" height="12" rx="2" fill="#1f8a70"/>
+<text x="270" y="132" font-size="10" fill="#1f8a70" text-anchor="end">視距離 60〜70cm</text>
+<text x="10" y="184" font-size="12" font-weight="700" fill="#2b2d2f">32インチ</text>
+<rect x="90" y="164" width="232" height="14" rx="2" fill="#b9bfc4"/>
+<text x="328" y="175" font-size="10" fill="#2b2d2f">机 70〜80cm以上</text>
+<rect x="307" y="184" width="31" height="12" rx="2" fill="#1f8a70"/>
+<text x="301" y="194" font-size="10" fill="#1f8a70" text-anchor="end">視距離 70〜80cm</text>
+<line x1="90" y1="225" x2="370" y2="225" stroke="#2b2d2f" stroke-width="1"/>
+<line x1="90" y1="222" x2="90" y2="228" stroke="#2b2d2f"/><text x="90" y="242" font-size="10" fill="#2b2d2f" text-anchor="middle">0</text><line x1="152" y1="222" x2="152" y2="228" stroke="#2b2d2f"/><text x="152" y="242" font-size="10" fill="#2b2d2f" text-anchor="middle">20</text><line x1="214" y1="222" x2="214" y2="228" stroke="#2b2d2f"/><text x="214" y="242" font-size="10" fill="#2b2d2f" text-anchor="middle">40</text><line x1="276" y1="222" x2="276" y2="228" stroke="#2b2d2f"/><text x="276" y="242" font-size="10" fill="#2b2d2f" text-anchor="middle">60</text><line x1="338" y1="222" x2="338" y2="228" stroke="#2b2d2f"/><text x="338" y="242" font-size="10" fill="#2b2d2f" text-anchor="middle">80</text>
+<text x="380" y="242" font-size="10" fill="#2b2d2f" text-anchor="end">cm</text>
+<line x1="214" y1="30" x2="214" y2="222" stroke="#c0392b" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="218" y="256" font-size="10" fill="#c0392b">40cm：ガイドラインの目安（おおむね40cm以上）</text>
+</svg>
+:::
+
 :::point 奥行きが足りないときの工夫
 - モニターアームで画面を机の奥ぎりぎりまで下げる
 - キーボードを手前に置き、体を少し後ろに下げる
