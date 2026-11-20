@@ -35,6 +35,33 @@ tags: [縦型マウス, トラックボール, エルゴノミクス, 手首, �
 
 ==縦型マウスは「手首の角度」、トラックボールは「腕の移動量」を変える道具==と考えるとわかりやすくなります。
 
+:::figure マウスのタイプ別の手の向き（正面から見た図）
+<svg viewBox="0 0 400 220" xmlns="http://www.w3.org/2000/svg">
+<g font-size="11" fill="#2b2d2f">
+<line x1="10" y1="160" x2="390" y2="160" stroke="#c9cdd1" stroke-width="2"/>
+<text x="70" y="22" text-anchor="middle" font-weight="700">一般的なマウス</text>
+<rect x="35" y="130" width="70" height="28" rx="14" fill="#b9bfc4"/>
+<rect x="30" y="112" width="80" height="16" rx="8" fill="#2b2d2f"/>
+<text x="70" y="184" text-anchor="middle" font-size="10">手のひらが下向き</text>
+<text x="70" y="198" text-anchor="middle" font-size="10" fill="#c07a10">前腕をひねった状態</text>
+<text x="200" y="22" text-anchor="middle" font-weight="700">縦型マウス</text>
+<rect x="175" y="96" width="44" height="62" rx="18" fill="#b9bfc4"/>
+<rect x="163" y="70" width="16" height="80" rx="8" fill="#2b2d2f" transform="rotate(33 171 110)"/>
+<path d="M150 158A50 50 0 0 1 166 122" fill="none" stroke="#1f8a70" stroke-width="1.5"/>
+<text x="146" y="100" text-anchor="end" font-size="10" fill="#1f8a70" font-weight="700">例：57°</text>
+<text x="200" y="184" text-anchor="middle" font-size="10">握手のように手を立てる</text>
+<text x="200" y="198" text-anchor="middle" font-size="10" fill="#1f8a70">前腕のひねりが少ない</text>
+<text x="330" y="22" text-anchor="middle" font-weight="700">トラックボール</text>
+<rect x="290" y="126" width="80" height="32" rx="12" fill="#b9bfc4"/>
+<circle cx="306" cy="124" r="12" fill="#1f8a70"/>
+<rect x="294" y="104" width="80" height="16" rx="8" fill="#2b2d2f" transform="rotate(-8 334 112)"/>
+<text x="330" y="184" text-anchor="middle" font-size="10">本体は動かさない</text>
+<text x="330" y="198" text-anchor="middle" font-size="10" fill="#1f8a70">腕の移動が少ない</text>
+<text x="10" y="216" font-size="10" fill="#5f6670">※角度は製品によって異なる。57°はMX Vertical アドバンスの公表値</text>
+</g>
+</svg>
+:::
+
 ## 研究でわかっていること・わかっていないこと
 
 縦型マウスについては、いくつかの研究があります。
