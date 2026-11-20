@@ -39,6 +39,28 @@ tags: [USB-Cハブ, ドッキングステーション, Thunderbolt, USB PD, ノ�
 
 ==机に固定して「ケーブル1本で全部つながる」環境を作るならドッキングステーション==、外出先でも使いたいならUSB-Cハブが向いています。
 
+:::figure USB-Cハブでの接続のイメージ（ケーブル1本でPCにつなぐ）
+<svg viewBox="0 0 400 240" xmlns="http://www.w3.org/2000/svg">
+<g font-size="11" fill="#2b2d2f">
+<rect x="10" y="95" width="80" height="50" rx="4" fill="#5f6670"/>
+<text x="50" y="125" text-anchor="middle" fill="#ffffff" font-weight="700">ノートPC</text>
+<rect x="160" y="85" width="70" height="70" rx="8" fill="#1f8a70"/>
+<text x="195" y="117" text-anchor="middle" fill="#ffffff" font-weight="700">USB-C</text>
+<text x="195" y="132" text-anchor="middle" fill="#ffffff" font-weight="700">ハブ</text>
+<line x1="90" y1="120" x2="160" y2="120" stroke="#1f8a70" stroke-width="5"/>
+<text x="125" y="110" text-anchor="middle" font-size="10" fill="#1f8a70" font-weight="700">USB-C 1本</text>
+<text x="90" y="170" font-size="10" fill="#1f8a70">映像・データ・給電をまとめて</text>
+<g stroke="#b9bfc4" stroke-width="2.5" fill="none">
+<path d="M230 95L290 40"/><path d="M230 110L290 90"/><path d="M230 130L290 150"/><path d="M230 145L290 200"/></g>
+<rect x="290" y="25" width="100" height="30" rx="4" fill="none" stroke="#2b2d2f"/><text x="340" y="44" text-anchor="middle">モニター（HDMI）</text>
+<rect x="290" y="75" width="100" height="30" rx="4" fill="none" stroke="#2b2d2f"/><text x="340" y="94" text-anchor="middle">キーボード等</text>
+<rect x="290" y="135" width="100" height="30" rx="4" fill="none" stroke="#2b2d2f"/><text x="340" y="154" text-anchor="middle">有線LAN</text>
+<rect x="290" y="185" width="100" height="30" rx="4" fill="none" stroke="#c07a10"/><text x="340" y="204" text-anchor="middle" fill="#c07a10">USB PD充電器</text>
+<text x="10" y="232" font-size="10">充電器をハブにつなぐと、ハブ経由でPCも充電（パススルー充電）</text>
+</g>
+</svg>
+:::
+
 ## チェック① PCのUSB-C端子が何に対応しているか
 
 USB-Cは端子の形の名前で、同じ形でも機能はPCによって違います。
