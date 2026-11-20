@@ -61,6 +61,38 @@ OSHAの資料では、==座面は奥行きを調整できると、背の高い�
 - 座面の前の縁が太もも裏を圧迫していない
 :::
 
+:::figure オフィスチェアの調整ポイント（横から見た図）
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="ar5" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#1f8a70"/></marker></defs>
+<line x1="10" y1="275" x2="390" y2="275" stroke="#c9cdd1" stroke-width="2"/>
+<rect x="120" y="170" width="120" height="12" rx="4" fill="#b9bfc4"/>
+<path d="M126 170L112 60" stroke="#b9bfc4" stroke-width="12" stroke-linecap="round"/>
+<rect x="150" y="128" width="70" height="7" rx="3" fill="#b9bfc4"/><line x1="200" y1="135" x2="200" y2="170" stroke="#b9bfc4" stroke-width="5"/>
+<line x1="180" y1="182" x2="180" y2="255" stroke="#b9bfc4" stroke-width="7"/>
+<line x1="135" y1="262" x2="225" y2="262" stroke="#b9bfc4" stroke-width="5" stroke-linecap="round"/>
+<circle cx="140" cy="268" r="6" fill="#b9bfc4"/><circle cx="220" cy="268" r="6" fill="#b9bfc4"/>
+<g stroke="#2b2d2f" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.85">
+<path d="M136 164L130 70"/><path d="M136 164H258V266H280"/><path d="M131 76L150 122H200L232 108"/></g>
+<circle cx="132" cy="46" r="16" fill="#2b2d2f"/>
+<path d="M112 128Q100 140 114 152" stroke="#1f8a70" stroke-width="3" fill="none"/>
+<text x="96" y="138" font-size="11" fill="#1f8a70" text-anchor="end" font-weight="700">ランバー</text>
+<text x="96" y="152" font-size="10" fill="#1f8a70" text-anchor="end">腰のくびれに</text>
+<line x1="60" y1="272" x2="60" y2="184" stroke="#1f8a70" stroke-width="1.5" marker-start="url(#ar5)" marker-end="url(#ar5)"/>
+<line x1="60" y1="176" x2="120" y2="176" stroke="#1f8a70" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="54" y="220" font-size="11" fill="#1f8a70" text-anchor="end" font-weight="700">座面</text>
+<text x="54" y="234" font-size="10" fill="#1f8a70" text-anchor="end">身長×0.25</text>
+<line x1="300" y1="168" x2="300" y2="134" stroke="#1f8a70" stroke-width="1.5" marker-start="url(#ar5)" marker-end="url(#ar5)"/>
+<line x1="222" y1="131" x2="304" y2="131" stroke="#1f8a70" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="242" y1="171" x2="304" y2="171" stroke="#1f8a70" stroke-width="1" stroke-dasharray="3 3"/>
+<text x="308" y="148" font-size="11" fill="#1f8a70" font-weight="700">ひじ掛け</text>
+<text x="308" y="162" font-size="10" fill="#1f8a70">座面から</text><text x="308" y="175" font-size="10" fill="#1f8a70">約18〜27cm</text>
+<line x1="240" y1="196" x2="258" y2="196" stroke="#1f8a70" stroke-width="1.5" marker-start="url(#ar5)" marker-end="url(#ar5)"/>
+<text x="268" y="200" font-size="11" fill="#1f8a70" font-weight="700">こぶし1つ分弱</text>
+<text x="268" y="214" font-size="10" fill="#1f8a70">ひざ裏のすき間</text>
+<text x="290" y="262" font-size="10" fill="#2b2d2f">足裏は床に</text>
+</svg>
+:::
+
 奥行き調整（座面スライド）があれば、体格が違う家族と共用する場合にも合わせやすくなります。
 
 ## チェック③ 背もたれとランバーサポート

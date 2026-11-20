@@ -17,7 +17,7 @@
   {"slug": "lower-back-pain-sitting", "title": "座りっぱなしの腰痛を防ぐ｜座り方とクッション・ランバーサポート", "category": "health", "status": "done"},
   {"slug": "winter-home-office-cold", "title": "冬の在宅ワーク寒さ対策｜足元ヒーター・電気代の目安", "category": "lighting", "status": "done"},
   {"slug": "small-room-desk-layout", "title": "6畳・ワンルームでのデスク配置｜狭い部屋に仕事スペースを作るコツ", "category": "desk", "status": "done"},
-  {"slug": "cable-management", "title": "デスク周りの配線整理｜ケーブルトレー・電源タップの選び方", "category": "desk", "status": "todo"},
+  {"slug": "cable-management", "title": "デスク周りの配線整理｜ケーブルトレー・電源タップの選び方", "category": "desk", "status": "done"},
   {"slug": "pomodoro-focus-timer", "title": "ポモドーロ・テクニックのやり方｜在宅ワークで集中を続ける時間術", "category": "productivity", "status": "todo"},
   {"slug": "work-life-boundary", "title": "在宅ワークでオンオフを切り替える方法｜仕事場所と習慣の作り方", "category": "productivity", "status": "todo"},
   {"slug": "desk-mat-guide", "title": "デスクマットの選び方｜素材・サイズ別のメリットとデメリット", "category": "desk", "status": "todo"},
