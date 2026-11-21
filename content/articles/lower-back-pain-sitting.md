@@ -49,6 +49,31 @@ tags: [腰痛, 座り方, ランバーサポート, クッション, 在宅ワ�
 - モニターは正面に置き、体をひねって見ない
 :::
 
+:::figure 浅く座る姿勢と深く座る姿勢（横から見た図）
+<svg viewBox="0 0 400 240" xmlns="http://www.w3.org/2000/svg">
+<g font-size="11" fill="#2b2d2f">
+<text x="100" y="20" text-anchor="middle" font-weight="700">× 浅く座る</text>
+<text x="300" y="20" text-anchor="middle" font-weight="700" fill="#1f8a70">○ 深く座って背もたれで支える</text>
+<line x1="10" y1="215" x2="390" y2="215" stroke="#c9cdd1" stroke-width="2"/>
+<rect x="40" y="148" width="90" height="9" rx="3" fill="#b9bfc4"/><rect x="38" y="60" width="9" height="96" rx="3" fill="#b9bfc4"/>
+<line x1="85" y1="157" x2="85" y2="212" stroke="#b9bfc4" stroke-width="5"/>
+<g stroke="#2b2d2f" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M100 144Q72 110 96 64"/><path d="M100 144H150V210H166"/></g>
+<circle cx="104" cy="48" r="14" fill="#2b2d2f"/>
+<path d="M52 92L80 104" stroke="#c0392b" stroke-width="1.5" stroke-dasharray="3 3"/>
+<text x="100" y="232" text-anchor="middle" font-size="10" fill="#c0392b">背もたれとの間にすき間・背中が丸まる</text>
+<rect x="240" y="148" width="90" height="9" rx="3" fill="#b9bfc4"/><rect x="238" y="60" width="9" height="96" rx="3" fill="#b9bfc4"/>
+<line x1="285" y1="157" x2="285" y2="212" stroke="#b9bfc4" stroke-width="5"/>
+<path d="M248 108Q260 118 248 128" fill="#1f8a70" stroke="#1f8a70" stroke-width="4"/>
+<g stroke="#2b2d2f" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M256 144L258 64"/><path d="M256 144H330V210H346"/></g>
+<circle cx="262" cy="48" r="14" fill="#2b2d2f"/>
+<text x="234" y="122" text-anchor="end" font-size="9" fill="#1f8a70">腰を支える</text>
+<text x="300" y="232" text-anchor="middle" font-size="10" fill="#1f8a70">お尻を奥まで・足裏を床に</text>
+</g>
+</svg>
+:::
+
 座面の高さの目安（身長×0.25前後）や机との高さの関係は、[在宅ワークで疲れないデスク環境の作り方](/articles/home-office-setup-basics/)で解説しています。
 
 :::point 座面の奥行きも確認

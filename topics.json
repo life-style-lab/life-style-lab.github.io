@@ -30,8 +30,18 @@
   {"slug": "summer-home-office-heat", "title": "夏の在宅ワーク暑さ対策｜室温28℃とエアコン・扇風機の使い分け", "category": "lighting", "status": "done"},
   {"slug": "headset-vs-earbuds-meetings", "title": "Web会議はヘッドセットとイヤホンどっち？｜用途別の選び方", "category": "audio", "status": "done"},
   {"slug": "home-wifi-for-remote-work", "title": "在宅ワークのWi-Fiが遅いときの対策｜ルーターの置き場所と有線化", "category": "productivity", "status": "done"},
-  {"slug": "ultrawide-monitor-guide", "title": "ウルトラワイドモニターは仕事に向いている？｜34インチの選び方", "category": "monitor", "status": "todo"},
+  {"slug": "ultrawide-monitor-guide", "title": "ウルトラワイドモニターは仕事に向いている？｜34インチの選び方", "category": "monitor", "status": "done"},
   {"slug": "document-holder-guide", "title": "書類を見ながら入力するなら｜書見台・ドキュメントホルダーの選び方", "category": "desk", "status": "todo"},
   {"slug": "desk-stretch-routine", "title": "座ったままできるストレッチ｜在宅ワークの肩こり・首こり対策", "category": "health", "status": "todo"},
-  {"slug": "bluelight-and-night-work", "title": "夜の在宅ワークと照明｜色温度と画面設定で目と睡眠を守る", "category": "lighting", "status": "todo"}
+  {"slug": "bluelight-and-night-work", "title": "夜の在宅ワークと照明｜色温度と画面設定で目と睡眠を守る", "category": "lighting", "status": "todo"},
+  {"slug": "portable-monitor-guide", "title": "モバイルモニターの選び方｜サイズ・接続・給電の確認ポイント", "category": "monitor", "status": "todo"},
+  {"slug": "tablet-as-second-screen", "title": "タブレットをサブモニターにする方法｜iPad・Androidの使い分け", "category": "monitor", "status": "todo"},
+  {"slug": "printer-for-home-office", "title": "在宅ワーク用プリンターの選び方｜インク・レーザーと置き場所", "category": "desk", "status": "todo"},
+  {"slug": "desk-storage-organization", "title": "デスク周りの収納・整理術｜狭い机を広く使うコツ", "category": "desk", "status": "todo"},
+  {"slug": "ups-power-backup", "title": "在宅ワークの停電対策｜UPS・ポータブル電源の選び方", "category": "productivity", "status": "todo"},
+  {"slug": "data-backup-for-remote-work", "title": "在宅ワークのデータバックアップ｜外付けSSDとクラウドの使い分け", "category": "productivity", "status": "todo"},
+  {"slug": "keyboard-shortcuts-productivity", "title": "作業が速くなるショートカットキー｜Windows・Macの基本", "category": "productivity", "status": "todo"},
+  {"slug": "walking-pad-exercise", "title": "在宅ワークの運動不足対策｜ウォーキングパッドと日常の工夫", "category": "health", "status": "todo"},
+  {"slug": "air-purifier-pollen", "title": "在宅ワーク中の花粉・ほこり対策｜空気清浄機の選び方", "category": "lighting", "status": "todo"},
+  {"slug": "desk-plants-greenery", "title": "デスクに観葉植物を置くなら｜日当たりと手入れの目安", "category": "desk", "status": "todo"}
 ]
