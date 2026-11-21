@@ -42,6 +42,30 @@ tags: [モニターライト, 照明, デスク環境, 狭いデスク]
 
 多くのモニターライトは、光を出す角度を偏らせた「非対称」の配光設計を採用しています。メーカーの解説では、レンズや反射板で光の向きを制御し、==画面側への光漏れを抑えながら机の上を照らす==仕組みと説明されています。
 
+:::figure モニターライトとデスクライトの光の向き（横から見た図）
+<svg viewBox="0 0 400 230" xmlns="http://www.w3.org/2000/svg">
+<g font-size="11" fill="#2b2d2f">
+<text x="100" y="18" text-anchor="middle" font-weight="700">モニターライト</text>
+<text x="300" y="18" text-anchor="middle" font-weight="700">画面の前のデスクライト</text>
+<line x1="10" y1="170" x2="190" y2="170" stroke="#b9bfc4" stroke-width="5"/>
+<rect x="150" y="60" width="8" height="90" rx="2" fill="#5f6670"/><line x1="154" y1="150" x2="154" y2="170" stroke="#5f6670" stroke-width="4"/>
+<rect x="136" y="50" width="30" height="8" rx="2" fill="#2b2d2f"/>
+<path d="M140 58L60 168H140Z" fill="#ffd77a" fill-opacity="0.55"/>
+<circle cx="30" cy="80" r="12" fill="#2b2d2f"/>
+<line x1="42" y1="82" x2="148" y2="100" stroke="#1f8a70" stroke-width="1.2" stroke-dasharray="4 3"/>
+<text x="100" y="192" text-anchor="middle" font-size="10" fill="#1f8a70">光は手元へ。画面にはほぼ当たらない</text>
+<line x1="210" y1="170" x2="390" y2="170" stroke="#b9bfc4" stroke-width="5"/>
+<rect x="350" y="60" width="8" height="90" rx="2" fill="#5f6670"/><line x1="354" y1="150" x2="354" y2="170" stroke="#5f6670" stroke-width="4"/>
+<line x1="280" y1="170" x2="290" y2="110" stroke="#5f6670" stroke-width="3"/><path d="M280 104L304 112L296 122Z" fill="#2b2d2f"/>
+<path d="M300 116L350 80L350 150Z" fill="#ffd77a" fill-opacity="0.55"/>
+<circle cx="230" cy="80" r="12" fill="#2b2d2f"/>
+<line x1="348" y1="96" x2="244" y2="82" stroke="#c0392b" stroke-width="1.5"/>
+<text x="300" y="192" text-anchor="middle" font-size="10" fill="#c0392b">画面に光が当たり、反射が目に入りやすい</text>
+<text x="200" y="220" text-anchor="middle" font-size="10" fill="#5f6670">※デスクライトも、画面に光が当たらない位置・角度なら映り込みは防げる</text>
+</g>
+</svg>
+:::
+
 :::memo 明るさの差を小さくすることが大切
 厚生労働省の情報機器作業ガイドラインでは、書類上・キーボード上の照度を300lx以上とし、ディスプレイの明るさと周囲の明るさの差をなるべく小さくすることが示されています。夜に部屋を暗くして画面だけが明るい状態は避け、手元と周囲も照らしましょう。
 :::
