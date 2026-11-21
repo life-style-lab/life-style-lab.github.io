@@ -56,6 +56,28 @@ tags: [キーボード, メカニカルキーボード, テンキーレス, 配�
 | 75%・65% | ファンクション列や一部キーを省略 | 約30〜32cm | 机が狭い、持ち運ぶ人 |
 | 60%以下 | 矢印キーなども省略 | 約29cm前後 | ショートカットに慣れた人 |
 
+:::figure キーボードのサイズとマウスの位置（幅の比較）
+<svg viewBox="0 0 400 210" xmlns="http://www.w3.org/2000/svg">
+<text x="90" y="24" font-size="10" fill="#2b2d2f">緑：マウス。キーボードが短いほど、マウスを体の近くに置ける</text>
+<text x="10" y="55" font-size="11" fill="#2b2d2f" font-weight="700">フルサイズ</text>
+<rect x="90" y="40" width="279" height="22" rx="3" fill="#5f6670"/>
+<text x="230" y="55" font-size="10" fill="#ffffff" text-anchor="middle">約43〜46cm</text>
+<rect x="377" y="40" width="14" height="22" rx="7" fill="#1f8a70"/>
+<text x="10" y="97" font-size="11" fill="#2b2d2f" font-weight="700">テンキーレス</text>
+<rect x="90" y="82" width="223" height="22" rx="3" fill="#5f6670"/>
+<text x="202" y="97" font-size="10" fill="#ffffff" text-anchor="middle">約35〜37cm</text>
+<rect x="321" y="82" width="14" height="22" rx="7" fill="#1f8a70"/>
+<text x="10" y="139" font-size="11" fill="#2b2d2f" font-weight="700">75%・65%</text>
+<rect x="90" y="124" width="192" height="22" rx="3" fill="#5f6670"/>
+<text x="186" y="139" font-size="10" fill="#ffffff" text-anchor="middle">約30〜32cm</text>
+<rect x="290" y="124" width="14" height="22" rx="7" fill="#1f8a70"/>
+<text x="10" y="181" font-size="11" fill="#2b2d2f" font-weight="700">60%以下</text>
+<rect x="90" y="166" width="180" height="22" rx="3" fill="#5f6670"/>
+<text x="180" y="181" font-size="10" fill="#ffffff" text-anchor="middle">約29cm前後</text>
+<rect x="278" y="166" width="14" height="22" rx="7" fill="#1f8a70"/>
+</svg>
+:::
+
 テンキーのあるフルサイズは、右側にマウスを置くと腕が体から離れやすくなります。==テンキーレスにすると、マウスを体の近くに置ける==ため、肩が開いた姿勢になりにくくなります。数字入力が多い人は、テンキーレス＋別売りのテンキーという組み合わせもあります。
 
 :::warn 小さすぎるキーボードの注意点
