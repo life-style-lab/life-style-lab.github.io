@@ -83,6 +83,26 @@ tags: [目の疲れ, 眼精疲労, ドライアイ, 休憩, 画面設定]
 
 米国眼科学会は、20分ごとに約6m（20フィート）以上離れたものを20秒以上見る「20-20-20ルール」を紹介しています。
 
+:::figure 20-20-20ルールのイメージ
+<svg viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="ar14" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#1f8a70"/></marker></defs>
+<g font-size="11" fill="#2b2d2f">
+<rect x="20" y="70" width="8" height="50" rx="2" fill="#5f6670"/>
+<circle cx="70" cy="90" r="14" fill="#2b2d2f"/>
+<line x1="84" y1="90" x2="350" y2="90" stroke="#1f8a70" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#ar14)"/>
+<path d="M360 70L375 100L345 100Z" fill="#1f8a70" fill-opacity="0.5"/><rect x="357" y="100" width="6" height="16" fill="#1f8a70" fill-opacity="0.5"/>
+<text x="215" y="80" text-anchor="middle" font-size="12" font-weight="700" fill="#1f8a70">約6m以上先を見る</text>
+<text x="360" y="134" text-anchor="middle" font-size="10">窓の外など</text>
+<g text-anchor="middle">
+<rect x="30" y="150" width="100" height="36" rx="6" fill="#1f8a70"/><text x="80" y="166" fill="#ffffff" font-weight="700">20分ごとに</text><text x="80" y="180" fill="#ffffff" font-size="10">画面作業の合間</text>
+<rect x="150" y="150" width="100" height="36" rx="6" fill="#1f8a70" fill-opacity="0.8"/><text x="200" y="166" fill="#ffffff" font-weight="700">20フィート</text><text x="200" y="180" fill="#ffffff" font-size="10">約6m以上先を</text>
+<rect x="270" y="150" width="100" height="36" rx="6" fill="#1f8a70" fill-opacity="0.6"/><text x="320" y="166" fill="#ffffff" font-weight="700">20秒以上</text><text x="320" y="180" fill="#ffffff" font-size="10">見て目を休める</text>
+</g>
+<text x="20" y="40" font-size="10" fill="#5f6670">画面（約40cm以上離す）</text>
+</g>
+</svg>
+:::
+
 | ルール | 内容 | 実践のコツ |
 |---|---|---|
 | 1時間ごとの休止 | 10〜15分は画面から離れる | 会議の終了時刻を50分にする |
