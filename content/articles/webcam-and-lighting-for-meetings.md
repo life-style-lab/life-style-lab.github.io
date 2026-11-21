@@ -49,6 +49,32 @@ Web会議の照明に関する解説記事でも、顔は正面から照らし�
 窓からの自然光は柔らかく、顔をきれいに照らしやすい光です。ただし、窓を背にすると強い逆光になります。==窓はカメラの後ろ側か横に来るように==机の向きを工夫しましょう。夕方以降は自然光がなくなるので、照明での補助も考えておくと安心です。
 :::
 
+:::figure Web会議で顔を明るく映す配置（上から見た図）
+<svg viewBox="0 0 400 220" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="ar13" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5L0 10z" fill="#e0a030"/></marker></defs>
+<g font-size="11" fill="#2b2d2f">
+<text x="100" y="18" text-anchor="middle" font-weight="700">× 窓を背にする</text>
+<text x="300" y="18" text-anchor="middle" font-weight="700" fill="#1f8a70">○ 光を顔の正面から</text>
+<rect x="20" y="28" width="160" height="150" fill="none" stroke="#c9cdd1" stroke-width="2"/>
+<rect x="60" y="172" width="80" height="10" fill="#9fd3e6"/>
+<rect x="70" y="44" width="60" height="10" rx="2" fill="#5f6670"/><rect x="94" y="54" width="12" height="6" fill="#1f8a70"/>
+<circle cx="100" cy="120" r="14" fill="#2b2d2f"/>
+<path d="M100 168V140" stroke="#e0a030" stroke-width="2" marker-end="url(#ar13)"/>
+<text x="100" y="200" text-anchor="middle" font-size="10" fill="#c0392b">逆光で顔が暗くなる</text>
+<rect x="220" y="28" width="160" height="150" fill="none" stroke="#1f8a70" stroke-width="2"/>
+<rect x="260" y="24" width="80" height="10" fill="#9fd3e6"/>
+<rect x="270" y="60" width="60" height="10" rx="2" fill="#5f6670"/><rect x="294" y="70" width="12" height="6" fill="#1f8a70"/>
+<circle cx="250" cy="74" r="8" fill="#ffd77a" stroke="#c07a10"/>
+<circle cx="300" cy="136" r="14" fill="#2b2d2f"/>
+<path d="M300 38V54" stroke="#e0a030" stroke-width="2" marker-end="url(#ar13)"/>
+<path d="M256 82L288 124" stroke="#e0a030" stroke-width="2" marker-end="url(#ar13)"/>
+<text x="246" y="98" text-anchor="end" font-size="9" fill="#c07a10">照明</text>
+<text x="300" y="200" text-anchor="middle" font-size="10" fill="#1f8a70">窓・照明はカメラの後ろ側か横に</text>
+<text x="300" y="214" text-anchor="middle" font-size="9" fill="#5f6670">緑：カメラ</text>
+</g>
+</svg>
+:::
+
 ## 照明の当て方と選び方
 
 照明は「顔の正面から、柔らかく」が基本です。光源がむき出しで直接目に入る位置だと、まぶしさや画面への映り込みの原因になります。
