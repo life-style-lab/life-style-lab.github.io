@@ -51,6 +51,31 @@ Web会議で「声が遠い」「エコーしてる」って言われること�
 指向性があっても、マイクが口から離れるほど周りの音や部屋の反響が混ざりやすくなります。卓上マイクなら口から20〜30cm程度を目安に、口の正面か、やや下から向けて置くと息の音も入りにくくなります。
 :::
 
+:::figure 卓上マイクの置き方（横から見た図）
+<svg viewBox="0 0 400 230" xmlns="http://www.w3.org/2000/svg">
+<defs><marker id="ar10" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#1f8a70"/></marker></defs>
+<g font-size="11" fill="#2b2d2f">
+<line x1="10" y1="170" x2="390" y2="170" stroke="#b9bfc4" stroke-width="5"/>
+<circle cx="60" cy="80" r="18" fill="#2b2d2f"/>
+<path d="M60 98V170" stroke="#2b2d2f" stroke-width="8" stroke-linecap="round"/>
+<path d="M180 92L76 70L76 110Z" fill="#1f8a70" fill-opacity="0.18"/>
+<rect x="176" y="96" width="14" height="30" rx="7" fill="#5f6670" transform="rotate(-20 183 111)"/>
+<line x1="186" y1="126" x2="190" y2="166" stroke="#5f6670" stroke-width="3"/><rect x="176" y="164" width="28" height="5" fill="#5f6670"/>
+<line x1="74" y1="54" x2="178" y2="54" stroke="#1f8a70" stroke-width="1.5" marker-start="url(#ar10)" marker-end="url(#ar10)"/>
+<text x="126" y="46" text-anchor="middle" font-size="12" font-weight="700" fill="#1f8a70">口から20〜30cm</text>
+<text x="140" y="152" text-anchor="middle" font-size="10" fill="#1f8a70">口の正面〜やや下から向ける</text>
+<rect x="250" y="160" width="60" height="9" rx="2" fill="#5f6670"/>
+<text x="280" y="190" text-anchor="middle" font-size="10">キーボード</text>
+<rect x="340" y="60" width="8" height="100" rx="2" fill="#5f6670"/>
+<text x="344" y="190" text-anchor="middle" font-size="10">PC・モニター</text>
+<path d="M196 102L240 120" stroke="#c0392b" stroke-width="1.2" stroke-dasharray="3 3"/>
+<text x="290" y="110" text-anchor="middle" font-size="10" fill="#c0392b">マイクの後ろ側に</text>
+<text x="290" y="124" text-anchor="middle" font-size="10" fill="#c0392b">打鍵音・ファンの音</text>
+<text x="200" y="218" text-anchor="middle" font-size="10" fill="#5f6670">単一指向性マイクは、拾いたくない音の出どころに背を向けて置く</text>
+</g>
+</svg>
+:::
+
 ## 3つのタイプの比較
 
 | 項目 | ヘッドセット | USBマイク（卓上） | スピーカーフォン |
