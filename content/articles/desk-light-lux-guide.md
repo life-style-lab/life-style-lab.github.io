@@ -56,6 +56,20 @@ tags: [デスクライト, 照明, 照度, 色温度, 演色性]
 | 昼白色 | 約5000K | 太陽光に近い自然な白。作業向き |
 | 昼光色 | 約6200〜6500K | 青みがかった白。文字がくっきり見えやすい |
 
+:::figure 色温度の目安と使い分け
+<svg viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="ct" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#ffb35c"/><stop offset="0.45" stop-color="#fff1d6"/><stop offset="0.6" stop-color="#ffffff"/><stop offset="1" stop-color="#cfe3ff"/></linearGradient></defs>
+<rect x="30" y="56" width="340" height="36" rx="4" fill="url(#ct)" stroke="#b9bfc4"/>
+<text x="30" y="46" font-size="11" fill="#2b2d2f" font-weight="700">暖かい光</text>
+<text x="370" y="46" font-size="11" fill="#2b2d2f" font-weight="700" text-anchor="end">青みのある白い光</text>
+<line x1="46" y1="92" x2="46" y2="100" stroke="#2b2d2f"/><text x="46" y="114" font-size="10" fill="#2b2d2f" text-anchor="middle">2700K</text><text x="46" y="128" font-size="10" fill="#2b2d2f" text-anchor="middle">電球色</text><line x1="111" y1="92" x2="111" y2="100" stroke="#2b2d2f"/><text x="111" y="114" font-size="10" fill="#2b2d2f" text-anchor="middle">3500K</text><text x="111" y="128" font-size="10" fill="#2b2d2f" text-anchor="middle">温白色</text><line x1="168" y1="92" x2="168" y2="100" stroke="#2b2d2f"/><text x="168" y="114" font-size="10" fill="#2b2d2f" text-anchor="middle">4200K</text><text x="168" y="128" font-size="10" fill="#2b2d2f" text-anchor="middle">白色</text><line x1="232" y1="92" x2="232" y2="100" stroke="#2b2d2f"/><text x="232" y="114" font-size="10" fill="#2b2d2f" text-anchor="middle">5000K</text><text x="232" y="128" font-size="10" fill="#2b2d2f" text-anchor="middle">昼白色</text><line x1="354" y1="92" x2="354" y2="100" stroke="#2b2d2f"/><text x="354" y="114" font-size="10" fill="#2b2d2f" text-anchor="middle">6500K</text><text x="354" y="128" font-size="10" fill="#2b2d2f" text-anchor="middle">昼光色</text>
+<rect x="16" y="146" width="90" height="34" rx="4" fill="none" stroke="#c07a10"/>
+<text x="61" y="167" font-size="10" fill="#c07a10" text-anchor="middle">夜・くつろぎ</text>
+<rect x="187" y="146" width="150" height="34" rx="4" fill="none" stroke="#1f8a70" stroke-width="2"/>
+<text x="262" y="167" font-size="10" fill="#1f8a70" text-anchor="middle" font-weight="700">作業向き（5000K前後〜）</text>
+</svg>
+:::
+
 作業中心なら==昼白色（5000K前後）を基準に、好みで昼光色==を選ぶのが一般的です。夜遅くまで作業する人や、作業後にそのままくつろぎたい人は、光の色を切り替えられる「調色」機能付きが便利です。
 
 :::warn 部屋の照明と色をそろえる
