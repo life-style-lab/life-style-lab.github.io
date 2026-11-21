@@ -36,6 +36,28 @@ tags: [ノイズキャンセリング, 騒音対策, イヤホン, ヘッドホ�
 | 中くらいの高さの音 | テレビの音、話し声 | 一部は残る |
 | 高い音・突然の音 | 子どもの声、食器の音、インターホン | 残りやすい |
 
+:::figure ノイズキャンセリングが効きやすい音・効きにくい音（イメージ）
+<svg viewBox="0 0 400 220" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="nc" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#1f8a70"/><stop offset="1" stop-color="#e6e8ea"/></linearGradient></defs>
+<g font-size="11" fill="#2b2d2f">
+<text x="20" y="28" font-weight="700">音の高さ</text>
+<text x="40" y="54" font-size="10">低い</text><text x="370" y="54" font-size="10" text-anchor="end">高い</text>
+<rect x="40" y="62" width="330" height="26" rx="4" fill="url(#nc)"/>
+<text x="90" y="80" text-anchor="middle" font-size="10" fill="#ffffff" font-weight="700">効きやすい</text>
+<text x="320" y="80" text-anchor="middle" font-size="10" fill="#5f6670" font-weight="700">残りやすい</text>
+<text x="40" y="114" font-size="10">エアコン・換気扇</text>
+<text x="40" y="128" font-size="10">車の走行音</text>
+<text x="160" y="114" font-size="10">テレビ・話し声</text>
+<text x="160" y="128" font-size="10">（一部は残る）</text>
+<text x="280" y="114" font-size="10">子どもの声・食器</text>
+<text x="280" y="128" font-size="10">インターホン</text>
+<line x1="40" y1="150" x2="370" y2="150" stroke="#c9cdd1"/>
+<text x="20" y="176" font-weight="700" font-size="10" fill="#c07a10">高い音・突然の音には</text>
+<text x="20" y="192" font-size="10" fill="#c07a10">イヤーピースのフィット（遮音）や耳栓、部屋の対策を組み合わせる</text>
+</g>
+</svg>
+:::
+
 :::memo 「遮音」と「ノイズキャンセリング」は別物
 イヤーピースやイヤーパッドで耳をふさいで物理的に音を減らすのが「遮音（パッシブ）」、電子的に打ち消すのが「ノイズキャンセリング（アクティブ）」です。高い音は遮音のほうが効きやすいため、==イヤーピースのサイズを合わせて密閉性を高める==ことも大切です。
 :::
