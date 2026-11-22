@@ -80,6 +80,19 @@ tags: [寒さ対策, デスクヒーター, 電気代, 足元暖房, 在宅ワ�
 
 ※温度調節機能で運転・停止を繰り返す製品は、実際の電気代がこれより低くなることがあります。
 
+:::figure 消費電力別の電気代の目安（1日8時間×月20日、31円/kWhで計算）
+<svg viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+<g font-size="11" fill="#2b2d2f">
+<text x="10" y="40">80W</text><rect x="70" y="28" width="17" height="18" rx="2" fill="#1f8a70"/><text x="95" y="41" font-size="10">約400円</text>
+<text x="10" y="76">165W</text><rect x="70" y="64" width="36" height="18" rx="2" fill="#1f8a70"/><text x="114" y="77" font-size="10">約820円</text>
+<text x="10" y="112">400W</text><rect x="70" y="100" width="87" height="18" rx="2" fill="#b9bfc4"/><text x="165" y="113" font-size="10">約1,980円</text>
+<text x="10" y="148">1200W</text><rect x="70" y="136" width="260" height="18" rx="2" fill="#b9bfc4"/><text x="336" y="149" font-size="10">約5,950円</text>
+<text x="70" y="18" font-size="10" fill="#1f8a70" font-weight="700">デスクヒーター・ホットマット相当</text>
+<text x="200" y="185" text-anchor="middle" font-size="10" fill="#5f6670">※1か月あたり。実際の単価や運転状況で変わる</text>
+</g>
+</svg>
+:::
+
 :::warn 「最大消費電力」で比べる
 ヒーターの電気代は、強運転時の消費電力で計算しておくと、想定より高くなる失敗を防げます。弱運転やタイマーを活用すると、そのぶん電気代を抑えられます。
 :::
