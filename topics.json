@@ -36,7 +36,7 @@
   {"slug": "bluelight-and-night-work", "title": "夜の在宅ワークと照明｜色温度と画面設定で目と睡眠を守る", "category": "lighting", "status": "done"},
   {"slug": "portable-monitor-guide", "title": "モバイルモニターの選び方｜サイズ・接続・給電の確認ポイント", "category": "monitor", "status": "done"},
   {"slug": "tablet-as-second-screen", "title": "タブレットをサブモニターにする方法｜iPad・Androidの使い分け", "category": "monitor", "status": "done"},
-  {"slug": "printer-for-home-office", "title": "在宅ワーク用プリンターの選び方｜インク・レーザーと置き場所", "category": "desk", "status": "todo"},
+  {"slug": "printer-for-home-office", "title": "在宅ワーク用プリンターの選び方｜インク・レーザーと置き場所", "category": "desk", "status": "done"},
   {"slug": "desk-storage-organization", "title": "デスク周りの収納・整理術｜狭い机を広く使うコツ", "category": "desk", "status": "todo"},
   {"slug": "ups-power-backup", "title": "在宅ワークの停電対策｜UPS・ポータブル電源の選び方", "category": "productivity", "status": "todo"},
   {"slug": "data-backup-for-remote-work", "title": "在宅ワークのデータバックアップ｜外付けSSDとクラウドの使い分け", "category": "productivity", "status": "todo"},
