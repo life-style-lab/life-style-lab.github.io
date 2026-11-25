@@ -60,8 +60,18 @@
   {"slug": "kvm-switch-two-pcs", "title": "会社PCと私物PCを1組の機器で使う｜切替器の選び方", "category": "productivity", "status": "done"},
   {"slug": "desk-depth-guide", "title": "デスクの奥行きは60cmと70cmどっち？｜モニター距離から考える", "category": "desk", "status": "done"},
   {"slug": "headphone-ear-fatigue", "title": "ヘッドホンで耳が疲れるときの対策｜長時間のWeb会議向け", "category": "audio", "status": "done"},
-  {"slug": "neck-shoulder-stiffness", "title": "在宅ワークの首・肩の疲れ対策｜画面の高さと腕の置き方", "category": "health", "status": "todo"},
+  {"slug": "neck-shoulder-stiffness", "title": "在宅ワークの首・肩の疲れ対策｜画面の高さと腕の置き方", "category": "health", "status": "done"},
   {"slug": "ceiling-light-and-desk-light", "title": "部屋の照明だけで足りる？｜シーリングライトとデスクライトの組み合わせ", "category": "lighting", "status": "todo"},
   {"slug": "pc-cleaning-keyboard-monitor", "title": "キーボード・モニターの掃除方法｜在宅ワーク機器のお手入れ", "category": "productivity", "status": "todo"},
-  {"slug": "notes-handwriting-vs-digital", "title": "手書きメモとデジタルメモの使い分け｜在宅ワークの情報整理", "category": "productivity", "status": "todo"}
+  {"slug": "notes-handwriting-vs-digital", "title": "手書きメモとデジタルメモの使い分け｜在宅ワークの情報整理", "category": "productivity", "status": "todo"},
+  {"slug": "web-meeting-background", "title": "Web会議の背景対策｜生活感を映さない配置とバーチャル背景", "category": "lighting", "status": "todo"},
+  {"slug": "power-strip-safety", "title": "デスク周りの電源タップの選び方｜容量と安全な使い方", "category": "desk", "status": "todo"},
+  {"slug": "keyboard-noise-meetings", "title": "キーボードの打鍵音を抑える方法｜Web会議中の音対策", "category": "audio", "status": "todo"},
+  {"slug": "kids-at-home-remote-work", "title": "子どもがいる家での在宅ワーク｜集中できる場所と時間の工夫", "category": "productivity", "status": "todo"},
+  {"slug": "mouse-pad-guide", "title": "マウスパッドの選び方｜サイズ・素材・リストレスト付きの違い", "category": "desk", "status": "todo"},
+  {"slug": "monitor-height-riser", "title": "モニターの高さを上げる方法｜モニター台とスタンドの選び方", "category": "desk", "status": "todo"},
+  {"slug": "smartphone-place-desk", "title": "仕事中のスマホの置き場所｜スタンドと通知の整理", "category": "productivity", "status": "todo"},
+  {"slug": "lunch-break-nap", "title": "在宅ワークの昼休みの過ごし方｜午後の眠気を減らす休み方", "category": "health", "status": "todo"},
+  {"slug": "wired-vs-wireless-peripherals", "title": "キーボード・マウスは有線とワイヤレスどっち？｜接続方式の選び方", "category": "desk", "status": "todo"},
+  {"slug": "chair-armrest-adjustment", "title": "椅子のひじ掛けの高さの合わせ方｜肩の疲れを減らす調整", "category": "desk", "status": "todo"}
 ]
