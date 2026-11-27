@@ -76,7 +76,7 @@
   {"slug": "chair-armrest-adjustment", "title": "椅子のひじ掛けの高さの合わせ方｜肩の疲れを減らす調整", "category": "desk", "status": "done"},
   {"slug": "monitor-for-macbook", "title": "MacBookにつなぐ外部モニターの選び方｜解像度と接続端子", "category": "monitor", "status": "done"},
   {"slug": "monitor-vertical-orientation", "title": "モニターの縦置き活用｜縦画面が向いている作業と設定", "category": "monitor", "status": "done"},
-  {"slug": "usb-c-monitor-one-cable", "title": "USB-Cケーブル1本でつながるモニター｜給電と映像出力の確認点", "category": "monitor", "status": "todo"},
+  {"slug": "usb-c-monitor-one-cable", "title": "USB-Cケーブル1本でつながるモニター｜給電と映像出力の確認点", "category": "monitor", "status": "done"},
   {"slug": "electricity-cost-home-office", "title": "在宅ワークの電気代の目安｜機器ごとの消費電力と節約のコツ", "category": "productivity", "status": "todo"},
   {"slug": "rainy-season-humidity", "title": "梅雨の在宅ワーク湿気対策｜除湿の目安と機器の守り方", "category": "health", "status": "todo"},
   {"slug": "window-cold-insulation", "title": "窓際の冷え対策｜断熱シート・カーテンで作業場所を暖かく", "category": "health", "status": "todo"},
