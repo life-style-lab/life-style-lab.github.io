@@ -79,7 +79,7 @@
   {"slug": "usb-c-monitor-one-cable", "title": "USB-Cケーブル1本でつながるモニター｜給電と映像出力の確認点", "category": "monitor", "status": "done"},
   {"slug": "electricity-cost-home-office", "title": "在宅ワークの電気代の目安｜機器ごとの消費電力と節約のコツ", "category": "productivity", "status": "done"},
   {"slug": "rainy-season-humidity", "title": "梅雨の在宅ワーク湿気対策｜除湿の目安と機器の守り方", "category": "health", "status": "done"},
-  {"slug": "window-cold-insulation", "title": "窓際の冷え対策｜断熱シート・カーテンで作業場所を暖かく", "category": "health", "status": "todo"},
+  {"slug": "window-cold-insulation", "title": "窓際の冷え対策｜断熱シート・カーテンで作業場所を暖かく", "category": "health", "status": "done"},
   {"slug": "mic-arm-guide", "title": "マイクアームの選び方｜Web会議の声を聞き取りやすくする置き方", "category": "audio", "status": "todo"},
   {"slug": "bgm-focus-music", "title": "作業中のBGMは集中に役立つ？｜音楽の使い方と音量の目安", "category": "audio", "status": "todo"},
   {"slug": "compact-desk-80cm", "title": "幅80cm前後の小さいデスクで足りる？｜ノートPC中心の選び方", "category": "desk", "status": "todo"},
