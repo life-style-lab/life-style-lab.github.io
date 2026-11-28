@@ -80,8 +80,18 @@
   {"slug": "electricity-cost-home-office", "title": "在宅ワークの電気代の目安｜機器ごとの消費電力と節約のコツ", "category": "productivity", "status": "done"},
   {"slug": "rainy-season-humidity", "title": "梅雨の在宅ワーク湿気対策｜除湿の目安と機器の守り方", "category": "health", "status": "done"},
   {"slug": "window-cold-insulation", "title": "窓際の冷え対策｜断熱シート・カーテンで作業場所を暖かく", "category": "health", "status": "done"},
-  {"slug": "mic-arm-guide", "title": "マイクアームの選び方｜Web会議の声を聞き取りやすくする置き方", "category": "audio", "status": "todo"},
+  {"slug": "mic-arm-guide", "title": "マイクアームの選び方｜Web会議の声を聞き取りやすくする置き方", "category": "audio", "status": "done"},
   {"slug": "bgm-focus-music", "title": "作業中のBGMは集中に役立つ？｜音楽の使い方と音量の目安", "category": "audio", "status": "todo"},
   {"slug": "compact-desk-80cm", "title": "幅80cm前後の小さいデスクで足りる？｜ノートPC中心の選び方", "category": "desk", "status": "todo"},
-  {"slug": "desk-side-wagon", "title": "デスク横のワゴン・キャビネットの選び方｜収納と動線", "category": "desk", "status": "todo"}
+  {"slug": "desk-side-wagon", "title": "デスク横のワゴン・キャビネットの選び方｜収納と動線", "category": "desk", "status": "todo"},
+  {"slug": "meeting-audio-check", "title": "Web会議前の音声チェック｜マイク・スピーカーの確認手順", "category": "audio", "status": "todo"},
+  {"slug": "monitor-flicker-free", "title": "モニターのちらつき対策｜フリッカーフリーとは", "category": "monitor", "status": "todo"},
+  {"slug": "monitor-refresh-rate-office", "title": "仕事用モニターのリフレッシュレート｜60Hzと100Hz以上の違い", "category": "monitor", "status": "todo"},
+  {"slug": "laptop-battery-care", "title": "ノートPCのバッテリーを長持ちさせる使い方｜つなぎっぱなし充電の注意", "category": "productivity", "status": "todo"},
+  {"slug": "bedroom-home-office", "title": "寝室で在宅ワークするコツ｜睡眠の場所と仕事の場所を分ける工夫", "category": "health", "status": "todo"},
+  {"slug": "indoor-shoes-home-office", "title": "在宅ワークの室内履き｜足元の冷えと立ち作業の疲れ対策", "category": "health", "status": "todo"},
+  {"slug": "webcam-privacy-cover", "title": "Webカメラとマイクのプライバシー対策｜カバーとオフの確認", "category": "productivity", "status": "todo"},
+  {"slug": "wired-lan-home-office", "title": "有線LANでWeb会議を安定させる｜ケーブルとアダプタの選び方", "category": "productivity", "status": "todo"},
+  {"slug": "desk-top-material", "title": "デスク天板の素材の選び方｜メラミン・天然木・ガラスの違い", "category": "desk", "status": "todo"},
+  {"slug": "lap-desk-sofa-work", "title": "ソファで作業するときの姿勢｜ラップデスクの選び方と注意点", "category": "desk", "status": "todo"}
 ]
